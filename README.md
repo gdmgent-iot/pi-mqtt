@@ -11,7 +11,10 @@ sudo apt install mosquitto
 
 ```
 python -m venv venv
-soruce venv/bin/activate 
+*# For macOS/Linux
+source venv/bin/activate
+*# For Windows
+.\venv\Scripts\activate
 ```
 
 ## install paho-client
