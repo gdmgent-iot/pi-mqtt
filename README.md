@@ -1,6 +1,6 @@
 # pi-mqtt 
 
-## install mosquitto
+## install mosquitto if you want your own broker
 
 ```
 sudo apt install mosquitto
